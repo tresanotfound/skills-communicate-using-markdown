@@ -2,7 +2,8 @@
 Some introductory content can be included here.
 
 ## This is an H2 Header
-More detailed content can be added under this header section.
+Below picture depicts the look of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### This is an H3 Header
 Even more specific content under this level.
